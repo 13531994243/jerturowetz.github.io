@@ -1,6 +1,7 @@
 ---
 layout: home
-alternate_title: Jeremy Turowetz
+title:  Jeremy Turowetz
+alt_title: Jeremy Turowetz
 sub_title: Senior Full-Stack Developer (PHP / Wordpress)
 
 introduction: |
@@ -13,10 +14,8 @@ actions:
   - label: "Fork me on GitHub"
     icon: github
     url: "https://www.github.com/jerturowetz"
-  - label: "Find me on LinkedIn"
+  - label: "LinkedIn"
     icon: linkedin
     url: "http://url-goes-here.com"
-
-# image: /assets/images/hero-1.jpg
 
 ---
