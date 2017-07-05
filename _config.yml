@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: All about Jeremy Turowetz
+title: All about JerTurowetz
 email: j.turowetz@gmail.com
 description: Montreal-based, Senior Full-Stack Developer (PHP/Wordpress)
 baseurl: # the optional subpath of your site, e.g. "/blog"
