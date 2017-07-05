@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Jeremy Turowetz",
+    "label": "Senior Full-Stack Developer (PHP/Wordpress)",
+    "picture": "https://jerturowetz.github.io/assets/images/jeremy-turowetz.png",
+    "email": "j.turowetz@gmail.com",
+    "phone": "(514) 264-1055",
+    "location": {
+      "address": "3593A Avenue Papineau",
+      "postalCode": "H2K 4J7",
+      "city": "Montréal",
+      "countryCode": "Canada",
+      "region": "Quebec"
+    }
+  },
+  "work": [
+    {
+      "company": "BKDSN",
+      "position": "Senior Web Developer & Web Project Strategist",
+      "startDate": "2011-09",
+      "endDate": "Present",
+      "summary": "At BKDSN I use digital leadership to design and develop client projects ranging from user experience, strategy & web application prototyping to full stack applications. For larger clients I like to specialize, for smaller clients I like to be involved from concept to production.",
+      "highlights": [
+        "Management: Working primarily with marketing teams in coordinating with design & management on small and medium scale projects. I identify needs, determine feasibility, set timelines and meet budget, user experience and technical expectations.",
+        "UX Design: Using knowledge of available solutions and the feasibility of designing custom solutions to guide and invigorate strategy teams in architecting and prototyping projects.",
+        "Web Development: Extending existing client solutions, integrating 3rd party applications and building, testing and deploying web products, ranging from single page applications on S3 (HTML/Jekyll) to custom company intranets (Wordpress/PHP). "
+      ]
+    },
+    {
+      "company": "MyInkWarehouse.com",
+      "position": "Web Developer & Database Manager",
+      "startDate": "2007-09",
+      "endDate": "2011-08",
+      "summary": "Worked as technical lead, designing for various e-commerce storefronts, maintaining and deploying our catalogues to an array of backend systems, instructing & training franchisees/employees and advising management on new technical solutions.",
+      "highlights": [
+        "Advisory: My major responsibilities included walking franchisees through our technical stack, building and giving web presentations to employees and hosting private training and Q&A sessions for sales.",
+        "Web Development & Design: Responsible for launching & maintaining proprietary and franchisee presences on various e-commerce platforms including BigCommerce and eBay & Amazon stores. Major areas of focus were storefront design, API interactions and product catalogue asset management and optimization.",
+        "Database: While at MIW, my most focused (and fun) task was managing proprietary and franchisee databases from design to deployment. My main areas of focus were automating & troubleshooting both static & API-driven imports from supplier databases, supplier priority chains for automating pricing & shipping calculations and managing both requirements and implementation of automated product addition/deletion."
+      ]
+    },
+    {
+      "company": "t2 Marketing International",
+      "position": "Web Developer",
+      "startDate": "2004-09",
+      "endDate": "2007-08",
+      "summary": "Worked with marketing teams to help build and deploy client solutions including HTML ads and stable marketing email campaigns.",
+      "highlights": [
+        "Developing websites on a LAMP stack (Linux, Apache, MySQL and PHP)",
+        "Developed website front ends using HTML, CSS and Javascript",
+        "Designing and delivering HTML ads for client campaigns",
+        "Requirements gathering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "PHP",
+        "Sass/CSS",
+        "gulp/Grunt",
+        "JavaScript/jQuery",
+        "Wordpress",
+        "Jekyll",
+        "Git",
+        "Bootstrap/Foundation/MUI/Pure ",
+        "Vagrant",
+        "A touch of Node.js",
+        "Photoshop",
+        "AWS S3",
+        "many more but these are my favorite."
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Basic"
+    }
+  ],
+}
