@@ -9,18 +9,24 @@
 
 @import "basically-basic";
 
-.layout--cv .taxonomy {
-    -webkit-columns: 2; /* Chrome, Safari, Opera */
+#languages .entry-content {
+	-webkit-columns: 2; /* Chrome, Safari, Opera */
     -moz-columns: 2; /* Firefox */
     columns: 2;
 }
 
-.layout--cv .taxonomy .keywords {
-	display: list-item;
-    list-style-type: disc;
-    list-style-position: inside;
-}
+.layout--cv .taxonomy {
+    -webkit-columns: 2; /* Chrome, Safari, Opera */
+    -moz-columns: 2; /* Firefox */
+    columns: 2;
 
+	.keywords {
+		display: list-item;
+    	list-style-type: disc;
+    	list-style-position: inside;
+	}
+	
+}
 
 #work .name:not(:first-child) {
     margin-top: 1.5rem;
