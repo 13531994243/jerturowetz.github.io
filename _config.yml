@@ -19,6 +19,7 @@ email: j.turowetz@gmail.com
 description: Montreal-based, Senior Full-Stack Developer (PHP/Wordpress)
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://jerturowetz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+google_analytics: UA-102169740-1
 author:
   name: Jeremy Turowetz
   twitter: JerTurowetz
@@ -28,7 +29,7 @@ github_username: JerTurowetz
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 
 social:
-  name: Ben Balter
+  name: Jeremy Turowetz
   links:
     - https://github.com/JerTurowetz
     - https://twitter.com/JerTurowetz
