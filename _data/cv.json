@@ -2,23 +2,23 @@
   "basics": {
     "name": "Jeremy Turowetz",
     "label": "Senior Full-Stack Developer (PHP/Wordpress)",
-    "picture": "https://jerturowetz.github.io/assets/images/jeremy-turowetz.png",
+    "picture": "/assets/images/jer-profile-png.png",
     "email": "j.turowetz@gmail.com",
     "phone": "(514) 264-1055"
   },
   "work": [
     {
       "company": "BKDSN",
-      "position": "Senior Web Developer & Web Project Strategist",
+      "position": "Senior Web Developer & Project Strategist",
       "startDate": "2011-09",
       "endDate": "Present",
       "summary": "Design and develop client projects ranging from user experience updates, strategy & prototypes to plugins and web applications.",
       "highlights": [
-        "Project Management: Identify needs, feasibility, cordinate departments and set timelines",
+        "Project Management: Identify needs, feasibility, coordinate departments and set timelines",
         "Work with client data to extend existing solutions (plugin development/schema implementation)",
-        "integrating 3rd party applications (Mailchimpm lists/SAP catalogues/Measurement tools)",
-        "prototyping single page applications (HTML/Jekyll/S3)",
-        "Full stack web applications (Wordpress/PHP)"
+        "Integrating 3rd party applications (Mailchimp lists/SAP catalogues/measurement tools)",
+        "Prototyping single page applications (HTML/Jekyll/S3)",
+        "Full stack web applications development (WordPress/PHP)"
       ]
     },
     {
@@ -26,11 +26,13 @@
       "position": "Web Developer & Database Manager",
       "startDate": "2007-09",
       "endDate": "2011-08",
-      "summary": "Worked as technical lead designing for various e-commerce storefronts, maintaining and deploying to an array of backend systems, instructing & training franchisees/employees and advising management on new technical solutions.",
+      "summary": "Technical lead, managing proprietary and franchisee product catalogues on e-commerce storefronts and shop front-end development.",
       "highlights": [
-        "Advisory: Walking franchisees through our technical stack, building and giving web presentations to employees and hosting private training and Q&A sessions for sales.",
-        "Web Development & Design: Launching & maintaining proprietary and franchisee presences on e-commerce platforms including BigCommerce, eBay & Amazon stores focusing on storefront design, API interactions, product catalogue asset management and asset optimization.",
-        "Database: All tasks relating to proprietary and franchisee databases including automating & troubleshooting static & API-driven imports, supplier priority chains for automating pricing & shipping calculations."
+        "Managing presences on various e-commerce platforms (BigCommerce, eBay & Amazon)",
+        "Storefront design, product catalogue asset management",
+        "Sales agent & franchisee training and support",
+        "Designing and automating pricing rules to balance supplier offerings",
+        "Automating & troubleshooting static & API-driven database imports"
       ]
     },
     {
@@ -40,7 +42,7 @@
       "endDate": "2007-08",
       "summary": "Worked with marketing teams to help build and deploy client solutions including HTML ads and stable marketing email campaigns.",
       "highlights": [
-        "Developing websites on a LAMP stack (Linux, Apache, MySQL and PHP)",
+        "Developing LAMP websites (Linux, Apache, MySQL and PHP)",
         "Developed website front ends using HTML, CSS and Javascript",
         "Designing and delivering HTML ads for client campaigns",
         "Requirements gathering"
@@ -48,24 +50,18 @@
     }
   ],
   "skills": [
-    {
-      "name": "Web Development",
-      "keywords": [
-        "PHP",
-        "Sass/CSS",
-        "gulp/Grunt",
-        "JavaScript/jQuery",
-        "Wordpress",
-        "Jekyll",
-        "Git",
-        "Bootstrap/Foundation/MUI/Pure",
-        "Vagrant",
-        "A touch of Node.js",
-        "Photoshop",
-        "AWS S3",
-        "many more but these are my favorite."
-      ]
-    }
+    "PHP",
+    "Sass/CSS",
+    "gulp/Grunt",
+    "JavaScript/jQuery",
+    "Wordpress",
+    "Jekyll",
+    "Git",
+    "Foundation/MUI/Pure",
+    "Vagrant",
+    "A touch of Node.js",
+    "Photoshop",
+    "AWS S3"
   ],
   "languages": [
     {
