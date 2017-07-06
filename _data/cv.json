@@ -4,14 +4,7 @@
     "label": "Senior Full-Stack Developer (PHP/Wordpress)",
     "picture": "https://jerturowetz.github.io/assets/images/jeremy-turowetz.png",
     "email": "j.turowetz@gmail.com",
-    "phone": "(514) 264-1055",
-    "location": {
-      "address": "3593A Avenue Papineau",
-      "postalCode": "H2K 4J7",
-      "city": "Montréal",
-      "countryCode": "Canada",
-      "region": "Quebec"
-    }
+    "phone": "(514) 264-1055"
   },
   "work": [
     {
@@ -65,7 +58,7 @@
         "Wordpress",
         "Jekyll",
         "Git",
-        "Bootstrap/Foundation/MUI/Pure ",
+        "Bootstrap/Foundation/MUI/Pure",
         "Vagrant",
         "A touch of Node.js",
         "Photoshop",
