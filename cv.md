@@ -2,7 +2,7 @@
 layout: cv
 title: C.V.
 alt_title: C.V.
-sub_title: "Senior Full-Stack Developer (PHP / Wordpress)"
+sub_title: Grab the more verbose version on [LinedIn](https://)
 
 #introduction: I build WordPress and Jekyll things on the web
 

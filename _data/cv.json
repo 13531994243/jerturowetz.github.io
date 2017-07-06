@@ -4,14 +4,7 @@
     "label": "Senior Full-Stack Developer (PHP/Wordpress)",
     "picture": "https://jerturowetz.github.io/assets/images/jeremy-turowetz.png",
     "email": "j.turowetz@gmail.com",
-    "phone": "(514) 264-1055",
-    "location": {
-      "address": "3593A Avenue Papineau",
-      "postalCode": "H2K 4J7",
-      "city": "Montréal",
-      "countryCode": "Canada",
-      "region": "Quebec"
-    }
+    "phone": "(514) 264-1055"
   },
   "work": [
     {
@@ -19,11 +12,13 @@
       "position": "Senior Web Developer & Web Project Strategist",
       "startDate": "2011-09",
       "endDate": "Present",
-      "summary": "At BKDSN I use digital leadership to design and develop client projects ranging from user experience, strategy & web application prototyping to full stack applications. For larger clients I like to specialize, for smaller clients I like to be involved from concept to production.",
+      "summary": "Design and develop client projects ranging from user experience updates, strategy & prototypes to plugins and web applications.",
       "highlights": [
-        "Management: Working primarily with marketing teams in coordinating with design & management on small and medium scale projects. I identify needs, determine feasibility, set timelines and meet budget, user experience and technical expectations.",
-        "UX Design: Using knowledge of available solutions and the feasibility of designing custom solutions to guide and invigorate strategy teams in architecting and prototyping projects.",
-        "Web Development: Extending existing client solutions, integrating 3rd party applications and building, testing and deploying web products, ranging from single page applications on S3 (HTML/Jekyll) to custom company intranets (Wordpress/PHP). "
+        "Project Management: Identify needs, feasibility, cordinate departments and set timelines",
+        "Work with client data to extend existing solutions (plugin development/schema implementation)",
+        "integrating 3rd party applications (Mailchimpm lists/SAP catalogues/Measurement tools)",
+        "prototyping single page applications (HTML/Jekyll/S3)",
+        "Full stack web applications (Wordpress/PHP)"
       ]
     },
     {
@@ -31,11 +26,11 @@
       "position": "Web Developer & Database Manager",
       "startDate": "2007-09",
       "endDate": "2011-08",
-      "summary": "Worked as technical lead, designing for various e-commerce storefronts, maintaining and deploying our catalogues to an array of backend systems, instructing & training franchisees/employees and advising management on new technical solutions.",
+      "summary": "Worked as technical lead designing for various e-commerce storefronts, maintaining and deploying to an array of backend systems, instructing & training franchisees/employees and advising management on new technical solutions.",
       "highlights": [
-        "Advisory: My major responsibilities included walking franchisees through our technical stack, building and giving web presentations to employees and hosting private training and Q&A sessions for sales.",
-        "Web Development & Design: Responsible for launching & maintaining proprietary and franchisee presences on various e-commerce platforms including BigCommerce and eBay & Amazon stores. Major areas of focus were storefront design, API interactions and product catalogue asset management and optimization.",
-        "Database: While at MIW, my most focused (and fun) task was managing proprietary and franchisee databases from design to deployment. My main areas of focus were automating & troubleshooting both static & API-driven imports from supplier databases, supplier priority chains for automating pricing & shipping calculations and managing both requirements and implementation of automated product addition/deletion."
+        "Advisory: Walking franchisees through our technical stack, building and giving web presentations to employees and hosting private training and Q&A sessions for sales.",
+        "Web Development & Design: Launching & maintaining proprietary and franchisee presences on e-commerce platforms including BigCommerce, eBay & Amazon stores focusing on storefront design, API interactions, product catalogue asset management and asset optimization.",
+        "Database: All tasks relating to proprietary and franchisee databases including automating & troubleshooting static & API-driven imports, supplier priority chains for automating pricing & shipping calculations."
       ]
     },
     {
@@ -63,7 +58,7 @@
         "Wordpress",
         "Jekyll",
         "Git",
-        "Bootstrap/Foundation/MUI/Pure ",
+        "Bootstrap/Foundation/MUI/Pure",
         "Vagrant",
         "A touch of Node.js",
         "Photoshop",
