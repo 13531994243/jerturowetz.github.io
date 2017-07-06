@@ -16,6 +16,6 @@ actions:
     url: "https://www.github.com/jerturowetz"
   - label: "LinkedIn"
     icon: linkedin
-    url: "http://url-goes-here.com"
+    url: "https://www.linkedin.com/in/jerturowetz/"
 
 ---
