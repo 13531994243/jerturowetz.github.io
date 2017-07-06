@@ -6,7 +6,7 @@ sub_title: "Senior Full-Stack Developer (PHP / Wordpress)"
 
 introduction: |
 
-    As a full-stack engineer I've jumped from automating deploys for intranets to budgeting & prototyping web apps. Recently, my main areas of focus have been custom Wordpress development, plugins & extensions.
+    As a full-stack engineer I've jumped from automating deploys for intranets to budgeting & prototyping web apps. Recently, my main area of focus has been Wordpress development, plugins & extensions.
 
 actions:
   - label: "Fork me on GitHub"
@@ -14,17 +14,17 @@ actions:
     url: "https://www.github.com/jerturowetz"
   - label: "LinkedIn"
     icon: linkedin
-    url: "http://url-goes-here.com"
+    url: "https://www.linkedin.com/in/jerturowetz/"
 
 ---
 
 ## What interests me
 
-I possess wide knowledge of technologies used in the modern web development stack though I specialize in Wordpress & really fast Jekyll things. I like to use state-of-the-art tools including Grunt/Gulp, SASS/LESS, Git, Vagrant, Foundation/Material Design Lite/Pure, AWS, but I prefer problem solving, developing web services and/or user interfaces to tooling.
+I possess wide knowledge of technologies used in the current web development stack and enjoy using modern tools including gulp/Grunt, Sass/LESS, Git, Vagrant and Foundation/MUI/Pure though I prefer problem solving, developing web services and/or user interfaces to tooling.
 
-Though I'm constantly learning on my own I'm presently looking for a team where I can expand on my PHP skills, grow rigorous at MVC/MVVM/MVWhatever patterns or deep dive in to a different PHP framework (Laravel/Drupal 8). I'm very interested by teams who employ structured mentorship/leadership roles in their environments.
+I'm presently looking for a team where I can expand on my PHP skills, grow rigorous at MVC/MVVM/MVWhatever or deep dive in to a new framework (Laravel/Drupal 8). Despite this, I'm a nester who's more into analytical thinking than specific tools so if you think I'd be a good fit for your team, I'm open to Dev-ops, database strategy, JS stack or Python/Django environments; just note these are not my specialty (yet).
 
-Despite this, I'm a nester who's more into problem solving than specific tools so, if you like the cut of my jib and want to pull me towards non PHP technologies, I'm open to AWS specific dev-ops, NoSQL database strategy, any JS stack environment or Python/Django environments; but, please note, these are not my specialty (yet).
+I'm very interested by teams who employ structured mentorship relationships in their environments.
 
 ## Where to find me
 
