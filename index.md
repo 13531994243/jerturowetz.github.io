@@ -2,7 +2,7 @@
 layout: home
 title:  Jeremy Turowetz
 alt_title: Jeremy Turowetz
-sub_title: Senior Full-Stack Developer (PHP / Wordpress)
+sub_title: Full-Stack Developer (PHP/Wordpress)
 
 introduction: |
 
