@@ -2,7 +2,7 @@
 layout: about
 title: About me
 alt_title: A little about me
-sub_title: "Senior Full-Stack Developer (PHP / Wordpress)"
+sub_title: Full-Stack Developer (PHP/Wordpress)
 
 introduction: |
 
