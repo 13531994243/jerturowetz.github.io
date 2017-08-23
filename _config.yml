@@ -16,7 +16,7 @@
 lang: en-US
 title: All about JerTurowetz
 email: j.turowetz@gmail.com
-description: Montreal-based, Senior Full-Stack Developer (PHP/Wordpress)
+description: Montreal-based, Full-Stack Developer (PHP/Wordpress)
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://jerturowetz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 google_analytics: UA-102169740-1

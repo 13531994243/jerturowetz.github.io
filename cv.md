@@ -2,6 +2,7 @@
 layout: cv
 title: "C.V."
 alt_title: Curriculum Vitae
+sub_title: Full-Stack Developer (PHP/Wordpress)
 
 actions:
   - label: "Download PDF version"
